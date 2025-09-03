@@ -59,7 +59,7 @@ The FE-GAN framework significantly reduces estimation errors, accelerates conver
 ## ⚙️ Installation
 
 ```bash
-git clone [https://github.com/yourusername/FE-GAN-RiskManagement.git](https://github.com/shrvnbarad/FE-GAN-Tail-Risk-Estimation.git)
+git clone https://github.com/shrvnbarad/FE-GAN-Tail-Risk-Estimation.git
 ```
 ---
 
