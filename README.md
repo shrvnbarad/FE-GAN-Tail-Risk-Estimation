@@ -63,25 +63,6 @@ git clone https://github.com/yourusername/FE-GAN-RiskManagement.git
 cd FE-GAN-RiskManagement
 pip install -r requirements.txt
 ```
-
----
-
-## ▶️ Usage
-
-### Training FE-GAN
-
-```bash
-python train.py --model wgan --input historical
-python train.py --model tailgan --input gbm
-python train.py --model tailgan --input hybrid
-```
-
-### Evaluation
-
-```bash
-python evaluate.py --model tailgan --metric ES
-```
-
 ---
 
 ## 📈 Example Results
@@ -108,5 +89,5 @@ University College London, 2024. [arXiv:2411.15519](https://arxiv.org/abs/2411.1
 
 ## 🧑‍💻 Author
 
-Implementation by \[Shravan Pradeep Barad]
+Implementation by **Shravan Pradeep Barad**
 Based on the original research by **Ling Chen, UCL**.
