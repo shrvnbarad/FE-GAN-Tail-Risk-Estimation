@@ -60,8 +60,6 @@ The FE-GAN framework significantly reduces estimation errors, accelerates conver
 
 ```bash
 git clone https://github.com/yourusername/FE-GAN-RiskManagement.git
-cd FE-GAN-RiskManagement
-pip install -r requirements.txt
 ```
 ---
 
